@@ -1,0 +1,1 @@
+let list: any[] = ['odore', 25, {webiste: 'luotianyi'}];
